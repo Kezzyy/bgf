@@ -1,0 +1,16 @@
+{
+  "name": "Shimatsu",
+  "version": "3.0.0",
+  "description": "Shimatsu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KezzyOfficial", 
+  "license": "MIT", 
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0"
+  }
+}
